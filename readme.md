@@ -4,6 +4,8 @@
 
 This reserach project explores the analysis of crime dynamics in Los Angeles using machine learning, with a focus on classifying crime types, identifying crime hotspots, analyzing crime descriptions using text mining, and forecasting crime trends over time. By leveraging a combination of spatial, temporal, and textual data, this study provides insights that can aid in understanding crime patterns, improving public safety strategies, and forecasting crime occurrences.
 
+![image](https://github.com/user-attachments/assets/cbaec49f-c80f-4af1-bb3e-62e29c646641)
+
 ### Project Objectives
 1. **Crime Type Classification**: Predicting crime types based on attributes such as location, victim details, and weapon used using machine learning models.
 2. **Hotspot Clustering**: Identifying and analyzing spatial patterns of crimes by detecting hotspots using clustering algorithms.
@@ -73,21 +75,25 @@ pip install -r requirements.txt
 
 ## Visualizations
 
-### 1. **Choropleth Map of Crime Distribution** (Figure 2)
+### 1. **Choropleth Map of Crime Distribution**
 A choropleth map visualizing the spatial distribution of crimes across Los Angeles. Areas with darker red shades represent regions with higher crime occurrences.
 
+![image](https://github.com/user-attachments/assets/110d79a8-a766-42b0-9c01-c6f725cd73f1)
 
-### 2. **Word Cloud of Crime Descriptions** (Figure 3)
+![image](https://github.com/user-attachments/assets/5f981cbb-bb43-4735-be14-cef678cba9e7)
+
+
+### 2. **Word Cloud of Crime Descriptions**
 A word cloud highlighting the most frequent terms found in crime descriptions, emphasizing patterns related to weapon usage and the nature of crimes (e.g., "assault," "robbery," "strong-arm").
+![image](https://github.com/user-attachments/assets/10ce6698-00ca-4ea7-b939-0321d7e0eb22)
 
-
-
-### 3. **Pie Chart of Crime Location Types** (Figure 4)
+### 3. **Pie Chart of Crime Location Types**
 A pie chart visualizing the proportion of crimes occurring in different location types, such as residential areas, commercial areas, and public spaces.
+![image](https://github.com/user-attachments/assets/3b98807b-5724-4e84-a37e-f8daa2dd2eb2)
 
-
-### 4. **Bar Chart of Crime Types** (Figure 5)
+### 4. **Bar Chart of Crime Types** 
 A bar chart showing the distribution of crime types, with "Battery Simple Assault" as the most frequent crime, followed by "Intimate Partner Simple Assault."
+![image](https://github.com/user-attachments/assets/3d6bac23-9c7a-4303-b8f8-1603c439da8f)
 
 
 ## How to Run the Project
